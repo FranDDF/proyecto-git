@@ -3,3 +3,4 @@ function saludar (){
 }
 
 console.log("hello")
+console.log("chau")
